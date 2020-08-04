@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">76</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">312fd67b-5a23-4b53-8c48-bd829c270074</dc:identifier>
+        <dc:title>The Alchemist</dc:title>
+        <dc:creator opf:file-as="Coelho, Paulo" opf:role="aut">Paulo Coelho</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.8.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;P&gt;&lt;b&gt;"My Heart Is Afraid that it will have to suffer," the boy told the alchemist one night as they looked up at the moonless sky."Tell your heart that the fear of suffering is worse than the suffering itself. And that no heart has ever suffered when it goes in search of its dreams."&lt;/b&gt;&lt;p&gt;Every few decades a book is published that changes the lives of its readers forever. &lt;i&gt;The Alchemist&lt;/i&gt; is such a book.&lt;p&gt;&lt;i&gt;The Alchemist&lt;/i&gt; is the magical story of Santiago, an Andalusian shepherd boy who yearns to travel in search of a worldly treasure as extravagant as any ever found. From his home in Spain he journeys to the markets of Tangiers and across the Egyptian desert to a fateful encounter with the alchemist.&lt;p&gt;The story of the treasures Santiago finds along the way teaches us, as only a few stories have done, about the essential wisdom of listening to our hearts, learning to read the omens strewn along life's path, and, above all, following our dreams.</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="9780061741241">9780061741241</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Paulo Coelho&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-11-01T10:29:44.181000+00:00" name="calibre:timestamp"/>
+        <meta content="Alchemist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

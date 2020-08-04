@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">81</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0379e4f7-86a5-4e09-b518-1241f6d670d6</dc:identifier>
+        <dc:title>The Winner Stands Alone</dc:title>
+        <dc:creator opf:file-as="Coelho, Paulo" opf:role="aut">Paulo Coelho</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.8.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-10-31T18:30:00+00:00</dc:date>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Paulo Coelho&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-11-01T10:29:46.100000+00:00" name="calibre:timestamp"/>
+        <meta content="Winner Stands Alone, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

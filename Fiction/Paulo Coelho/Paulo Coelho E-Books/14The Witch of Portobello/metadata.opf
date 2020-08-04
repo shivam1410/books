@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">84</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cd0cbd6b-9e9a-4e42-aa4f-8debf80599da</dc:identifier>
+        <dc:title>The Witch of Portobello</dc:title>
+        <dc:creator opf:file-as="Coelho, Paulo" opf:role="aut">Paulo Coelho</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.8.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;How do we find the courage to always be true to ourselves—even if we are unsure of whom we are?&lt;p&gt;That is the central question of international bestselling author Paulo Coelho's profound new work, &lt;i&gt;The Witch of Portobello&lt;/i&gt;. It is the story of a mysterious woman named Athena, told by the many who knew her well—or hardly at all. Among them: &lt;blockquote&gt;&lt;p&gt;&lt;i&gt;"People create a reality and then become the victims of that reality. Athena rebelled against that—and paid a high price."&lt;/i&gt;&lt;br&gt;Heron Ryan, journalist&lt;p&gt;&lt;i&gt;"I was used and manipulated by Athena, with no consideration for my feelings. She was my teacher, charged with passing on the sacred mysteries, with awakening the unknown energy we all possess. When we venture into that unfamiliar sea, we trust blindly in those who guide us, believing that they know more than we do."&lt;/i&gt;&lt;br&gt;Andrea McCain, actress&lt;p&gt;&lt;i&gt;"Athena's great problem was that she was a woman of the twenty-second century living in the twenty-first, and...</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061828898</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Paulo Coelho&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-11-01T10:29:47.105000+00:00" name="calibre:timestamp"/>
+        <meta content="Witch of Portobello, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

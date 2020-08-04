@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">70</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">caebda96-e1d8-40a2-a3cc-27c63f4f1a5d</dc:identifier>
+        <dc:title>Brida</dc:title>
+        <dc:creator opf:file-as="Coelho, Paulo" opf:role="aut">Paulo Coelho</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.8.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;This is the story of Brida, a young Irish girl, and her quest for knowledge. She has long been interested in various aspects of magic but is searching for something more. Her search leads her to people of great wisdom, who begin to teach Brida about the spiritual world. She meets a wise man who dwells in a forest, who teaches her about overcoming her fears and trusting in the goodness of the world; and a woman who teaches her how to dance to the music of the world, and how to pray to the moon. As Brida seeks her destiny, she struggles to find a balance between her relationships and her desire to become a witch. This enthralling novel incorporates themes that fans of Paulo Coelho will recognize and treasure—it is a tale of love, passion, mystery, and spirituality from the master storyteller.</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061807459</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Paulo Coelho&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-11-01T10:29:41.708000+00:00" name="calibre:timestamp"/>
+        <meta content="Brida" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

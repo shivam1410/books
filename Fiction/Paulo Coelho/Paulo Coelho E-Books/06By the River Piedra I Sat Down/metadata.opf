@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">71</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5b6cd9ab-5ad5-4edc-8001-2cb20ddc2460</dc:identifier>
+        <dc:title>By the River Piedra I Sat Down and Wept</dc:title>
+        <dc:creator opf:file-as="Coelho, Paulo" opf:role="aut">Paulo Coelho</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.8.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;From Paulo Coelho, author of the international bestseller &lt;i&gt;The Alchemist&lt;/i&gt;, comes a poignant, richly poetic story that reflects the depth of love and life.&lt;/p&gt;&lt;p&gt;Rarely does adolescent love reach its full potential, but what happens when two young lovers reunite after eleven years? Time has transformed Pilar into a strong and independent woman, while her devoted childhood friend has grown into a handsome and charismatic spiritual leader. She has learned well how to bury her feelings ... and he has turned to religion as a refuge from his raging inner conflicts.&lt;/p&gt;&lt;p&gt;Now they are together once again, embarking on a journey fraught with difficulties, as long-buried demons of blame and resentment resurface after more than a decade. But in a small village in the French Pyrenees, by the waters of the River Piedra, a most special relationship will be reexamined in the dazzling light of some of life's biggest questions.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061859953</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Paulo Coelho&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-11-01T10:29:42.020000+00:00" name="calibre:timestamp"/>
+        <meta content="By the River Piedra I Sat Down and Wept" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

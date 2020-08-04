@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">80</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0da1d21c-dfad-495f-80d4-3404e3a866b9</dc:identifier>
+        <dc:title>The Valkyries: An Encounter With Angels</dc:title>
+        <dc:creator opf:file-as="Coelho, Paulo" opf:role="aut">Paulo Coelho</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.8.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-12T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;A classic masterwork of spiritual tension and realization from Paulo Coelho, this powerful story of one man’s battle with self-doubt and fear is now available in a beautiful new package from HarperOne. An essential volume alongside Coelho’s other bestselling and influential books, such as &lt;em&gt;The Alchemist&lt;/em&gt;, &lt;em&gt;The Pilgrimage&lt;/em&gt;, &lt;em&gt;Brida&lt;/em&gt;, and &lt;em&gt;The Winner Stands Alone&lt;/em&gt;, the searing and unforgettable narrative in The Valkyries asks the questions most central to all literature—and all of humanity’s quest for understanding. Why is it that we destroy the things we love most? And how can we learn to let go of the past and believe in the future?  &lt;/p&gt;&lt;h3&gt;From Booklist&lt;/h3&gt;&lt;p&gt;There is enough interest in angels to ensure this peculiar little book a significant audience. It traces a spiritual journey of sorts, stereotypically cast as a journey into the desert, that embodies a New Age conception of liberation as liberation from the past in confrontation with oneself. The "ritual that demolishes rituals," which is the climax of the book, is all done with mirrors. As Simone de Beauvoir would note, the "mirrors" are women--and that calls into question both the "newness" of the story and the "age" it heralds. But it is a strange tale many will find compelling. &lt;em&gt;Steve Schroeder&lt;/em&gt;&lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;"A book that delights, fascinates, frightens, and enlightens all at once... A delightful read that leaves you pondering eternal truths long after you put it down." -- &lt;em&gt;-- &lt;/em&gt;NAPRA Review* *  &lt;/p&gt;&lt;p&gt;"Coelho's gripping tale of his adventures...reads like a suspense novel." -- &lt;em&gt;-- &lt;/em&gt;San Mateo Times**  &lt;/p&gt;&lt;p&gt;"Coelho's gripping tale of his adventures...reads like a suspense novel." -- &lt;em&gt;-- &lt;/em&gt;San Mateo Times**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B000W9179M</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">FdhkGFJOVIAC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">0062513346</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christian Books &amp; Bibles</dc:subject>
+        <dc:subject>Literature &amp; Fiction</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>Religion &amp; Spirituality</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Spirituality</dc:subject>
+        <dc:subject>Literary Fiction</dc:subject>
+        <dc:subject>Nonfiction</dc:subject>
+        <dc:subject>Christianity</dc:subject>
+        <dc:subject>Christian Fiction</dc:subject>
+        <meta content="{&quot;Paulo Coelho&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2013-11-01T10:29:45.757000+00:00" name="calibre:timestamp"/>
+        <meta content="Valkyries: An Encounter With Angels, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

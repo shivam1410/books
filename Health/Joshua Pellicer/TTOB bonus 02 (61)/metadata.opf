@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">61</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f0022346-6a0c-48f9-999e-f07d6c03e47c</dc:identifier>
+        <dc:title>TTOB bonus 02</dc:title>
+        <dc:creator opf:file-as="Pellicer, Joshua" opf:role="aut">Joshua Pellicer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.31.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-07T06:22:50+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Joshua Pellicer&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-09-09T07:17:25+00:00" name="calibre:timestamp"/>
+        <meta content="TTOB bonus 02" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

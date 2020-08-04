@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">79</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">14b18cb7-cf8c-495c-a420-cb97e791b774</dc:identifier>
+        <dc:title>The Pilgrimage</dc:title>
+        <dc:creator opf:file-as="Coelho, Paulo" opf:role="aut">Paulo Coelho</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.8.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Here Paulo Coelho details his journey across Spain along the legendaryroad of San Tiago, which pilgrims have travelled since Middle Ages. On this contemporary quest, he encounters a Chaucerian variety of mysterious guides and devilish opponents and learns to understand the nature of truth through the simplicity of life. &lt;i&gt;The Pilgrimage&lt;/i&gt; holds an important place in Paulo Coelho’s literary canon.His first book, it not only paved the way for his phenomenal novel &lt;i&gt;The Alchemist &lt;/i&gt;, but it also fully expresses his humanist philosophy and the depth of his unique search for meaning.&lt;/p&gt;</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="9780061841927">9780061841927</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Paulo Coelho&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-11-01T10:29:45.445000+00:00" name="calibre:timestamp"/>
+        <meta content="Pilgrimage, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

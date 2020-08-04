@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">69</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e98666ea-ca2c-4b75-b6cf-f5f779ecfcbe</dc:identifier>
+        <dc:title>Aleph</dc:title>
+        <dc:creator opf:file-as="Coelho, Paulo" opf:role="aut">Paulo Coelho</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.8.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-09-26T18:30:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;b&gt;Transform your life. Rewrite your destiny.&lt;/b&gt;&lt;br&gt;&lt;br&gt;In his most personal novel to date, internationally best-selling author Paulo Coelho returns with a remarkable journey of self-discovery. Like the main character in his much-beloved &lt;i&gt;The Alchemist,&lt;/i&gt; Paulo is facing a grave crisis of faith. As he seeks a path of spiritual renewal and growth, he decides to begin again: to travel, to experiment, to reconnect with people and the landscapes around him.&lt;br&gt;&lt;br&gt;Setting off to Africa, and then to Europe and Asia via the Trans-Siberian Railway, he initiates a journey to revitalize his energy and passion. Even so, he never expects to meet Hilal. A gifted young violinist, she is the woman Paulo loved five hundred years before--and the woman he betrayed in an act of cowardice so far-reaching that it prevents him from finding real happiness in this life. Together they will initiate a mystical voyage through time and space, traveling a path that teaches love, forgiveness, and the...</dc:description>
+        <dc:publisher>Knopf Doubleday Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-0-307-95701-6</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Paulo Coelho&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-11-01T10:29:40.616000+00:00" name="calibre:timestamp"/>
+        <meta content="Aleph" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

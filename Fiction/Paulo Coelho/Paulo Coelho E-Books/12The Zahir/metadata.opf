@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">82</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">54e8611e-f74a-447e-949d-4d33bbde980f</dc:identifier>
+        <dc:title>The Zahir</dc:title>
+        <dc:creator opf:file-as="Coelho, Paulo" opf:role="aut">Paulo Coelho</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.8.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Set in Paris and in the enchanting landscape of central Asia, this new novel by the author of the international bestsellers &lt;b&gt;The Alchemist&lt;/b&gt; and &lt;b&gt;Eleven Minutes&lt;/b&gt; follows the journey of a man obsessed with finding the wife who left him without an explanation.&lt;p&gt;The narrator of &lt;b&gt;The Zahir&lt;/b&gt; is a bestselling novelist who lives in Paris and enjoys all the privileges that money and celebrity bring. His wife of ten years, Esther, is a war correspondent who, despite her professional success and freedom from the conventional constraints of marriage, is facing an existential crisis. When she disappears along with a friend, Mikhail, who may or may not be her lover, the authorities question the narrator. Was Esther kidnapped, killed, or did she simply abandon a marriage that left her unfulfilled? The narrator doesn't have any answers but he has plenty of questions of his own.</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061758010</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Paulo Coelho&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-11-01T10:29:46.515000+00:00" name="calibre:timestamp"/>
+        <meta content="Zahir, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

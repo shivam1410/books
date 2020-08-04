@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">73</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fd8a40d2-cb66-4e84-87b8-dceac70b8182</dc:identifier>
+        <dc:title>Like the Flowing River: Thoughts and Reflections</dc:title>
+        <dc:creator opf:file-as="Coelho, Paulo" opf:role="aut">Coelho, Paulo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.8.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-27T16:00:00+00:00</dc:date>
+        <dc:publisher>HarperCollins Publishers</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B004XOZ9HS</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Coelho, Paulo&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-11-01T10:29:42.909000+00:00" name="calibre:timestamp"/>
+        <meta content="Like the Flowing River: Thoughts and Reflections" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

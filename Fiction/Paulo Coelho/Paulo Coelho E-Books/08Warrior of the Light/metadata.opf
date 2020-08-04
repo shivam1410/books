@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">74</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">837fa588-c145-4401-b8e5-75bfb937f823</dc:identifier>
+        <dc:title>Warrior of the Light</dc:title>
+        <dc:creator opf:file-as="Coelho, Paulo" opf:role="aut">Paulo Coelho</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.8.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;i&gt;Warrior of the Light: A Manual&lt;/i&gt; is an inspirational companion to &lt;i&gt;The Alchemist&lt;/i&gt;, an international bestseller that has beguiled millions of readers around the world. Every short passage invites us to live out our dreams, to embrace the uncertainty of life, and to rise to our own unique destiny. In his inimitable style, Paulo Coelho helps bring out the Warrior of the Light within each of us. He also shows readers how to embark upon the way of the Warrior: the one who appreciates the miracle of being alive, the one who accepts failure, and the one whose quest leads him to become the person he wants to be.&lt;p&gt;Paulo Coelho is one of the most beloved storytellers of our time. Now, in the long-awaited companion to his first novel, Coelho presents a collection of philosophical stories that will delight and guide seekers everywhere.</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="9780061828669">9780061828669</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Paulo Coelho&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-11-01T10:29:43.292000+00:00" name="calibre:timestamp"/>
+        <meta content="Warrior of the Light" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

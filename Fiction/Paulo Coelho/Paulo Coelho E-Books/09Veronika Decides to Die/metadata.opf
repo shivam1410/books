@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">83</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9fe6034c-34e3-49c0-9b03-6c58e475b422</dc:identifier>
+        <dc:title>Veronika Decides to Die</dc:title>
+        <dc:creator opf:file-as="Coelho, Paulo" opf:role="aut">Paulo Coelho</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.8.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Twenty-four-year-old Veronika seems to have everything -- youth and beauty, boyfriends and a loving family, a fulfilling job. But something is missing in her life. So, one cold November morning, she takes a handful of sleeping pills expecting never to wake up. But she does -- at a mental hospital where she is told that she has only days to live.&lt;p&gt;Inspired by events in Coelho's own life, &lt;i&gt;Veronika Decides to Die&lt;/i&gt; questions the meaning of madness and celebrates individuals who do not fit into patterns society considers to be normal. Bold and illuminating, it is a dazzling portrait of a young woman at the crossroads of despair and liberation, and a poetic, exuberant appreciation of each day as a renewed opportunity.</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061835438</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Paulo Coelho&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-11-01T10:29:46.777000+00:00" name="calibre:timestamp"/>
+        <meta content="Veronika Decides to Die" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
