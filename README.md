@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/3kD2Eciolhy4VOzjRV/giphy.gif" width="300">
+<img src="https://www.freepik.com/free-icon/pdf-book-with-bookmark_747530.htm" width="300">
 <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="300">
 # books
 personal collection
